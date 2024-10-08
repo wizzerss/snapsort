@@ -4,7 +4,7 @@ snapsort is a Python tool used to segregate individuals in group photos and comp
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install snapsort.
 
 ```bash
 pip install snapsort
